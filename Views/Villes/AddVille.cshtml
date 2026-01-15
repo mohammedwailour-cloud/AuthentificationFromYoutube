@@ -1,0 +1,10 @@
+﻿@model AuthentificationFromYoutube.ModelViews.VilleAddVM
+
+<form asp-action ="AddVille" asp-controller="Villes" method="post">
+    <div class="form-group">
+        <label asp-for="Libelle"></label>
+        <input type="text" asp-for="Libelle" />
+        <span asp-validation-for="Libelle"></span>
+    </div>
+        <input type="submit" value="ADD"></input>
+</form>

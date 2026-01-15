@@ -1,0 +1,32 @@
+﻿@model AuthentificationFromYoutube.ModelViews.UserRegistrationVM ;
+
+<form asp-action="Register" asp-controller="User" method="post">
+    <div class="form-group">
+        <label asp-for="login"> Login </label>
+        <input type="text" asp-for="login" />
+        <span  asp-validation-for="login"></span>
+    </div>
+
+     <div class="form-group">
+        <label asp-for="password"> Password </label>
+        <input type="password" asp-for="password" />
+        <span  asp-validation-for="password"></span>
+    </div>
+
+     <div class="form-group">
+        <label asp-for="nom"> Nom </label>
+        <input type="text" asp-for="nom" />
+        <span  asp-validation-for="nom"></span>
+    </div>
+
+     <div class="form-group">
+        <label asp-for="prenom"> Prenom </label>
+        <input type="text" asp-for="prenom" />
+        <span  asp-validation-for="prenom"></span>>
+    </div>
+
+    <button class="btn-primary" type="submit"> S'inscrire'</button>
+
+
+
+</form>
