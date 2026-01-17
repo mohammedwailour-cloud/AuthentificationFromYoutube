@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthentificationFromYoutube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4e66522f3a5897e6c3cd0ae2331dd4caf9204e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthentificationFromYoutube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthentificationFromYoutube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

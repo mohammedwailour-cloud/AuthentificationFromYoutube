@@ -4,6 +4,7 @@ using AuthentificationFromYoutube.ModelViews;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using AuthentificationFromYoutube.Filters;
+using AuthentificationFromYoutube.Repositories;
 
 
 namespace AuthentificationFromYoutube.Controllers
@@ -11,6 +12,12 @@ namespace AuthentificationFromYoutube.Controllers
     [AuthFilter]
     public class VillesController : Controller
     {
+        IVillesRepository _villesrepo;
+        public VillesController(IVillesRepository _villesrepo) 
+        {
+           this._villesrepo = _villesrepo;
+
+        }
         public IActionResult AddVille()
         {
             return View();
@@ -21,7 +28,7 @@ namespace AuthentificationFromYoutube.Controllers
             if (ModelState.IsValid) 
             {
                 Villes v = AddMapper.getvillefromVmToModel(vm);
-                v.Add();
+                _villesrepo.Add(v);
                 return RedirectToAction("Index");
             }
           

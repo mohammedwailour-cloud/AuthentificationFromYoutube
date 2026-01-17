@@ -3,16 +3,21 @@ using AuthentificationFromYoutube.ModelViews;
 using Microsoft.AspNetCore.Mvc;
 using AuthentificationFromYoutube.Mappers;
 using AuthentificationFromYoutube.Services;
+using AuthentificationFromYoutube.Repositories;
 
 namespace AuthentificationFromYoutube.Controllers
 {
     public class UserController : Controller
     {
         ISessionStorageService _sessionStorageService;
-        public UserController(ISessionStorageService _sessionStorageService) 
+        IUsersRepository _userrepo;
+        public UserController(ISessionStorageService _sessionStorageService, IUsersRepository _userrepo) 
         { 
             this._sessionStorageService = _sessionStorageService;
+            this._userrepo = _userrepo;
         }
+
+       
         public IActionResult Register()
         {
             return View();
@@ -24,7 +29,7 @@ namespace AuthentificationFromYoutube.Controllers
             if (ModelState.IsValid)
             {
                 Users u = RegistrationMapper.GetUserfromRegistrationVm(vm); 
-                u.AddUser();
+                _userrepo.AddUser(u);
             }
             return View();
         }
@@ -39,7 +44,7 @@ namespace AuthentificationFromYoutube.Controllers
             if (ModelState.IsValid)
             {
                 Users u = RegistrationMapper.GetUserfromLoginVm(vm);
-                if (u.loginAction()) 
+                if (_userrepo.loginAction(u)) 
                 { 
                 _sessionStorageService.SetToSession("Nom", u.nom, HttpContext );
                 _sessionStorageService.SetToSession("Prenom", u.prenom, HttpContext);

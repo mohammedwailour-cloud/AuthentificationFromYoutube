@@ -1,3 +1,4 @@
+using AuthentificationFromYoutube.Repositories;
 using AuthentificationFromYoutube.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 builder.Services.AddScoped<ISessionStorageService, SessionStorageService>();
+builder.Services.AddScoped<IUsersRepository, UsersRepository>();
+builder.Services.AddScoped<IVillesRepository, VillesRepository>();
 
 var app = builder.Build();
 

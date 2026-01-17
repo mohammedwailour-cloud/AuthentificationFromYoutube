@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\controllers\\villescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:controllers\\villescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\mappers\\registrationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:mappers\\registrationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\repositories\\villesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:repositories\\villesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\models\\villes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:models\\villes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\repositories\\ivillesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:repositories\\ivillesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\services\\sessionstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:services\\sessionstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\controllers\\villescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:controllers\\villescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\mappers\\registrationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:mappers\\registrationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\authentificationfromyoutube.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|solutionrelative:authentificationfromyoutube.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A995EB5-EC8F-4F31-BA24-A7D9A4B94430}|AuthentificationFromYoutube.csproj|d:\\desktop\\ehei\\asp.net core mvc - mr mani\\authentificationfromyoutube\\services\\isessionstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,15 +98,171 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VillesRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\VillesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VillesRepository.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\VillesRepository.cs",
+              "RelativeToolTip": "Repositories\\VillesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:39:11.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVillesRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\IVillesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IVillesRepository.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\IVillesRepository.cs",
+              "RelativeToolTip": "Repositories\\IVillesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:38:51.663Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VillesController.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\VillesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VillesController.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\VillesController.cs*",
+              "RelativeToolTip": "Controllers\\VillesController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T23:48:09.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsersRepository.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:06:35.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:17:28.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:11:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Villes.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Models\\Villes.cs",
+              "RelativeDocumentMoniker": "Models\\Villes.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Models\\Villes.cs",
+              "RelativeToolTip": "Models\\Villes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:39:29.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUsersRepository.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Repositories\\IUsersRepository.cs",
+              "RelativeToolTip": "Repositories\\IUsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:02:43.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-17T00:32:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationMapper.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Mappers\\RegistrationMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\RegistrationMapper.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Mappers\\RegistrationMapper.cs",
+              "RelativeToolTip": "Mappers\\RegistrationMapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:47:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionStorageService.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Services\\SessionStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\SessionStorageService.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Services\\SessionStorageService.cs",
+              "RelativeToolTip": "Services\\SessionStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T03:36:21.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:24:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AuthFilter.cs",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Filters\\AuthFilter.cs",
               "RelativeDocumentMoniker": "Filters\\AuthFilter.cs",
@@ -82,35 +270,25 @@
               "RelativeToolTip": "Filters\\AuthFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T20:03:47.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SessionStorageService.cs",
-              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Services\\SessionStorageService.cs",
-              "RelativeDocumentMoniker": "Services\\SessionStorageService.cs",
-              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Services\\SessionStorageService.cs",
-              "RelativeToolTip": "Services\\SessionStorageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T03:36:21.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrationMapper.cs",
-              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Mappers\\RegistrationMapper.cs",
-              "RelativeDocumentMoniker": "Mappers\\RegistrationMapper.cs",
-              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Mappers\\RegistrationMapper.cs",
-              "RelativeToolTip": "Mappers\\RegistrationMapper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAawBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T14:47:47.423Z"
+              "WhenOpened": "2026-01-05T20:03:47.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "AuthentificationFromYoutube",
+              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\AuthentificationFromYoutube.csproj",
+              "RelativeDocumentMoniker": "AuthentificationFromYoutube.csproj",
+              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\AuthentificationFromYoutube.csproj",
+              "RelativeToolTip": "AuthentificationFromYoutube.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T00:01:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "VilleAddVM.cs",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\ModelViews\\VilleAddVM.cs",
               "RelativeDocumentMoniker": "ModelViews\\VilleAddVM.cs",
@@ -122,45 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:11:34.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwC0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T14:17:28.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VillesController.cs",
-              "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\VillesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VillesController.cs",
-              "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Controllers\\VillesController.cs",
-              "RelativeToolTip": "Controllers\\VillesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T23:48:09.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "ISessionStorageService.cs",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Services\\ISessionStorageService.cs",
               "RelativeDocumentMoniker": "Services\\ISessionStorageService.cs",
@@ -168,23 +308,25 @@
               "RelativeToolTip": "Services\\ISessionStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T03:47:58.558Z"
+              "WhenOpened": "2026-01-05T03:47:58.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "AddMapper.cs",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Mappers\\AddMapper.cs",
               "RelativeDocumentMoniker": "Mappers\\AddMapper.cs",
               "ToolTip": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Mappers\\AddMapper.cs",
               "RelativeToolTip": "Mappers\\AddMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T15:56:50.279Z"
+              "WhenOpened": "2026-01-02T15:56:50.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\ModelViews\\LoginVM.cs",
               "RelativeDocumentMoniker": "ModelViews\\LoginVM.cs",
@@ -196,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
@@ -208,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "UserRegistrationVM.cs",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\ModelViews\\UserRegistrationVM.cs",
               "RelativeDocumentMoniker": "ModelViews\\UserRegistrationVM.cs",
@@ -220,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
@@ -232,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "AddVille.cshtml",
               "DocumentMoniker": "D:\\Desktop\\EHEI\\ASP.NET core MVC - Mr Mani\\AuthentificationFromYoutube\\Views\\Villes\\AddVille.cshtml",
               "RelativeDocumentMoniker": "Views\\Villes\\AddVille.cshtml",
